@@ -2,7 +2,7 @@
 
 
 Gnosis contracts: (Mainnet)
-
+```javascript
  addresses: {
     defaultMarketFactory: '0x6ca7f214ab2ddbb9a8e1a1e2c8550e3164e9dba5',
     defaultMarketMaker: '0x8695e5e79dab06fbbb05f445316fa4edb0da30f0',
@@ -27,3 +27,5 @@ Gnosis contracts: (Mainnet)
   }
   
   Uport contracts: (
+  }
+```
