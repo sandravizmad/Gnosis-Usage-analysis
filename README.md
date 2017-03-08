@@ -1,4 +1,4 @@
-# Uport-Gnosis Interaction Graph
+# Gnosis - Usage analysis based on smart contract calls
 
 
 ###Gnosis contracts: (Mainnet)
@@ -27,9 +27,3 @@
   }
 ```
 
-###Uport contracts: (Mainnet)
-
-```javascript
-  Uport contracts: (
-  }
-```
