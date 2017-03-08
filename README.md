@@ -1,7 +1,7 @@
-# Uport-Gnosis-Interaction-Graph
+# Uport-Gnosis Interaction Graph
 
 
-Gnosis contracts: (Mainnet)
+###Gnosis contracts: (Mainnet)
 ```javascript
  addresses: {
     defaultMarketFactory: '0x6ca7f214ab2ddbb9a8e1a1e2c8550e3164e9dba5',
@@ -25,7 +25,11 @@ Gnosis contracts: (Mainnet)
     oracles: ['0x529c4cb814029b8bb32acb516ea3a4b07fdae350'],
     tokens: ['0x92f1dbea03ce08225e31e95cc926ddbe0198e6f2', '0xecf8f87f810ecf450940c9f60066b4a7a501d6a7'],
   }
-  
+```
+
+###Uport contracts: (Mainnet)
+
+```javascript
   Uport contracts: (
   }
 ```
