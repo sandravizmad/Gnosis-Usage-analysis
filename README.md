@@ -1,5 +1,7 @@
 # Gnosis - Usage analysis based on smart contract calls
 
+[Github source](https://github.com/ConsenSys/gnosis.js/blob/master/src/config.js)
+
 
 ###Gnosis contracts: (Mainnet)
 ```javascript
@@ -26,4 +28,3 @@
     tokens: ['0x92f1dbea03ce08225e31e95cc926ddbe0198e6f2', '0xecf8f87f810ecf450940c9f60066b4a7a501d6a7'],
   }
 ```
-
